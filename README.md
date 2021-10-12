@@ -6,7 +6,7 @@ Q. Can you get baned for using this?
 A. Probably. It's not my fault if you do. Although I have never got banned using it.
  
 Q. How do I get my auth token?
-A. Login via the web app, and use (Inspect Element > Network) or something like Fiddler to get the auth0. (It's very long)
+A. Login via the web app, and use (Inspect Element > Network) or something like Fiddler to get the auth0. (It's very long) (Check authtoken example.txt)
 
 Q. How much coins have you made?
 A. ![image](https://user-images.githubusercontent.com/70807878/137012264-964a1bd7-247c-4680-977b-a16db843d8b7.png)
