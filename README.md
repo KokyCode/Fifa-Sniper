@@ -2,7 +2,7 @@
 A Fifa 21 Sniper designed to buy players at a max price you set, and even has the option to sell the player afterwards!
 
 # Questions & Answers
-Q. Can you get baned for using this?
+Q. Can you get banned for using this?
 A. Probably. It's not my fault if you do. Although I have never got banned using it.
  
 Q. How do I get my auth token?
